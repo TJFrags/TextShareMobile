@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Text Share</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+    <string name="options_header">Options</string>
+    <string name="server_header">Server</string>
+
+    <!-- Options Preferences -->
+    <string name="translate">Translate</string>
+    <string name="language">Language</string>
+
+    <!-- Server Preferences -->
+    <string name="Ip">IP Address</string>
+    <string name="Port">Port</string>
+</resources>
